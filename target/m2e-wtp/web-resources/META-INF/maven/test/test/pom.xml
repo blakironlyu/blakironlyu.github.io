@@ -6,7 +6,7 @@
   <packaging>war</packaging>
   <properties>
 		<spring.version>4.1.4.RELEASE</spring.version>
-		<jettyVersion>8.1.16.v20140903</jettyVersion>
+		<jettyVersion>9.4.12.v20180830</jettyVersion>
 	</properties>
   <dependencies>
 		<!-- MVC -->
